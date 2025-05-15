@@ -6,4 +6,4 @@ Borrowed from Reuben Castelino from here: https://ucdavis.box.com/shared/static/
 
 ## Usage
 
-`wget -q -O - https://github.com/UCD-DART/bigfix/blob/main/install-bigfix-debian.sh | sudo bash -s - install 072057`
+`wget -q -O - https://raw.githubusercontent.com/UCD-DART/bigfix/refs/heads/main/install-bigfix-debian.sh | sudo bash -s - install 072057`
